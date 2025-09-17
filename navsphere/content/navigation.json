@@ -92,6 +92,14 @@
           "description": "Beautiful & consistent icon toolkit made by the community.",
           "icon": "/assets/favicon_1754229702059.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1758099100063_hdxz0ryqx",
+          "title": "福利吧-分享你的福利吧",
+          "href": "https://fuliba2025.net/",
+          "description": "福利吧是一个分享福利的平台，通过本站将一些好玩的、好看的、新鲜资讯分享给大家。",
+          "icon": "/assets/favicon_1758099090475.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
