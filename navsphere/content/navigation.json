@@ -12,6 +12,14 @@
           "description": "福利吧是一个分享福利的平台，通过本站将一些好玩的、好看的、新鲜资讯分享给大家。",
           "icon": "/assets/favicon_1758099674785.png",
           "enabled": true
+        },
+        {
+          "id": "site_1758099776403_xwrv15h7v",
+          "title": "百度一下，你就知道",
+          "href": "https://www.baidu.com",
+          "description": "全球领先的中文搜索引擎、致力于让网民更便捷地获取信息，找到所求。百度超过千亿的中文网页数据库，可以瞬间找到相关的搜索结果。",
+          "icon": "/assets/favicon_1758099768566.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
