@@ -674,14 +674,6 @@
               "enabled": true
             },
             {
-              "id": "6_2",
-              "title": "principle",
-              "href": "http://principleformac.com/",
-              "description": "Animate Your Ideas, Design Better Apps",
-              "icon": "/assets/images/logos/principle.png",
-              "enabled": true
-            },
-            {
               "id": "6_4",
               "title": "framer",
               "href": "https://framer.com/",
