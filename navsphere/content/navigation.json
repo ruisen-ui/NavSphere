@@ -4,7 +4,16 @@
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
-      "items": [],
+      "items": [
+        {
+          "id": "site_1758099679144_1dnb67rcm",
+          "title": "福利吧-分享你的福利吧",
+          "href": "https://fuliba2025.net/",
+          "description": "福利吧是一个分享福利的平台，通过本站将一些好玩的、好看的、新鲜资讯分享给大家。",
+          "icon": "/assets/favicon_1758099674785.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [],
       "description": "",
       "enabled": true
